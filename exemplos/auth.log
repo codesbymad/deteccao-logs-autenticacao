@@ -1,0 +1,8 @@
+2026-10-27 08:00:01 sshd login failed for user=ana from 192.168.1.10
+2026-10-27 08:00:05 sshd login failed for user=ana from 192.168.1.10
+2026-10-27 08:00:09 sshd login failed for user=joao from 192.168.1.10
+2026-10-27 08:01:15 sshd login success for user=ana from 192.168.1.20
+2026-10-27 08:02:00 sshd login failed for user=joao from 192.168.1.30
+2026-10-27 08:02:03 sshd login failed for user=joao from 192.168.1.30
+2026-10-27 08:02:06 sshd login failed for user=joao from 192.168.1.30
+2026-10-27 08:02:09 sshd login failed for user=joao from 192.168.1.30
